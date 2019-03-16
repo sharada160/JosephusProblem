@@ -2,11 +2,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace Josephus
 {
-    class Program
+    class CalWinningPosition
     {
         static int josephus(int n, int k)
         {
